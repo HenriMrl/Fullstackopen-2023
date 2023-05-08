@@ -1,0 +1,181 @@
+commit 7186bcb1e129953cb40fccca547e594e78d13525
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 16:18:38 2023 +0300
+
+    final commit
+
+ tiedostot/file2             | 0
+ tiedostot/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit c38f9cbf08cc1fc9bebcc405c0bee36757048060
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 16:09:52 2023 +0300
+
+    uudet filut
+
+ tiedostot/file1 | 0
+ tiedostot/file2 | 0
+ tiedostot/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 139bf379209d0446fae1df89dc1da95d541eb9e9
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 16:06:12 2023 +0300
+
+    poistoon
+
+ hakemisto/kala.txt,     | 0
+ hakemisto/kana.txt      | 2 --
+ hakemisto/kanakukko.txt | 2 --
+ 3 files changed, 4 deletions(-)
+
+commit e1962a5221793f58d6ae05525d5ac3168898cbf1
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 16:04:26 2023 +0300
+
+    poistoja
+
+ hakemisto/kala.txt,     | 0
+ hakemisto/kana.txt      | 2 ++
+ hakemisto/kanakukko.txt | 2 ++
+ 3 files changed, 4 insertions(+)
+
+commit 369cf8c70478adec9fd870693f88720ee7c6b157
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+commit 7186bcb1e129953cb40fccca547e594e78d13525
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 16:18:38 2023 +0300
+
+    final commit
+
+ tiedostot/file2             | 0
+ tiedostot/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit c38f9cbf08cc1fc9bebcc405c0bee36757048060
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 16:09:52 2023 +0300
+
+    uudet filut
+
+ tiedostot/file1 | 0
+ tiedostot/file2 | 0
+ tiedostot/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 139bf379209d0446fae1df89dc1da95d541eb9e9
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 16:06:12 2023 +0300
+
+    poistoon
+
+ hakemisto/kala.txt,     | 0
+ hakemisto/kana.txt      | 2 --
+ hakemisto/kanakukko.txt | 2 --
+ 3 files changed, 4 deletions(-)
+
+commit e1962a5221793f58d6ae05525d5ac3168898cbf1
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 16:04:26 2023 +0300
+
+    poistoja
+
+ hakemisto/kala.txt,     | 0
+ hakemisto/kana.txt      | 2 ++
+ hakemisto/kanakukko.txt | 2 ++
+ 3 files changed, 4 insertions(+)
+
+commit 369cf8c70478adec9fd870693f88720ee7c6b157
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 15:02:21 2023 +0300
+
+    lisäilyjä taas
+
+ eka.txt | 23 +++--------------------
+ 1 file changed, 3 insertions(+), 20 deletions(-)
+
+commit 4b1ac823fc9483f1a851ee5a30b58e6f634741f0
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 14:58:44 2023 +0300
+
+    tiedoston vaihto
+
+ tekstitiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 81122e68190884dbf4601ad8d145fba6f49aa409
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 14:56:46 2023 +0300
+
+    yksi poisto
+
+ 2tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ab42d974f395b0e6ab9d8766b871e719cbc5665a
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 14:27:38 2023 +0300
+
+    vielä vähän lisää tekstiä
+
+ tekstitiedosto.txt | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+commit 5461675c02121c87004eade8a2a2b2e82036676e
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 14:25:27 2023 +0300
+
+    vähän tekstiä
+
+ tekstitiedosto.txt | 23 +++++++++++++++++++++++
+ 1 file changed, 23 insertions(+)
+
+commit 583622a28216e3e2b595f71e8172c0d34e8080b7
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 14:15:44 2023 +0300
+
+    vähän muutoksia
+
+ kolmas.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 18abfcbcb0097b301921245318ff8ff272f66420
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 14:15:02 2023 +0300
+
+    vähän muutoksia
+
+ stuff/stuff.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 6b3992d8c842fe3ce9d657c108b214a15c453ea3
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 14:12:49 2023 +0300
+
+    kolmas tiedosto lisätty
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d6a77d92de1ab818f47b253e33781f135507fbd8
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 14:09:03 2023 +0300
+
+    muutos ja lisäys
+
+ 2tiedosto.txt      | 0
+ tekstitiedosto.txt | 1 +
+ 2 files changed, 1 insertion(+)
+
+commit 2552de92f0c435e456706c986b0e7a06027697ac
+Author: Henri Meriläinen <henri.merilainen1@gmail.com>
+Date:   Sun May 7 14:04:49 2023 +0300
+
+    tekstitiedosto.txt luotu
+
+ tekstitiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+henri@DESKTOP-64LQVS3 MINGW64 ~/fullstack_viikko1/tiedostot (master)
+$ cd ..
