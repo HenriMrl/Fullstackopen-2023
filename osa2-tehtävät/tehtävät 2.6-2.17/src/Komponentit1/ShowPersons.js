@@ -7,7 +7,7 @@ const ShowPersons = (props) => {
       </div>
       <div>
         number:
-        <input value={props.newNumber} onChange={props.handleNewNumber} />{" "}
+        <input value={props.newNumber} onChange={props.handleNewNumber} />
       </div>
       <div>
         <button type="submit">add</button>
