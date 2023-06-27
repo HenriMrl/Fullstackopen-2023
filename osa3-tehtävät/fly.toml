@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for henkanflytesti on 2023-06-26T23:15:34+03:00
+# fly.toml app configuration file generated for flyphonebook on 2023-06-27T16:32:06+03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "henkanflytesti"
+app = "flyphonebook"
 primary_region = "arn"
 
 [env]
