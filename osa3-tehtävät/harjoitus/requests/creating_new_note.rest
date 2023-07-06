@@ -3,7 +3,7 @@ Content-Type: application/json
 
 
 {
-    "content": "jabbadappaduu",
+    "content": "lol",
     "important": true
 }
 
