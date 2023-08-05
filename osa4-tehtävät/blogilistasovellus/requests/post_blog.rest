@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJpdHZhIiwiaWQiOiI2NGNiYTI5YjE3ZmNjMDJiOTZhMDBiYWEiLCJpYXQiOjE2OTEwNjc0NTZ9.chnvG1XK30ZpA1_fGySyebvbyM0IQRh1DF1b6fxt8zc
+
+ { 
+"title": "jooo",
+"author": "morormo",
+"url": "jassoo",
+"likes": 10
+}
