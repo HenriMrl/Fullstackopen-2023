@@ -9,7 +9,7 @@ usersRouter.post('/', async (request, response) => {
     return response.status(400).end()
   }
   
-  console.log("body", request.body)
+  console.log('body', request.body)
   const saltRounds = 10
   const passwordHash = await bcrypt.hash(password, saltRounds)
 

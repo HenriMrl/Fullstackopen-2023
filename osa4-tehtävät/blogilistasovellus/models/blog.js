@@ -1,5 +1,5 @@
-const mongoose = require('mongoose');
-const config = require('../utils/config');
+const mongoose = require('mongoose')
+const config = require('../utils/config')
 
 const blogSchema = mongoose.Schema({
   title: String,
@@ -20,8 +20,8 @@ blogSchema.set('toJSON', {
   },
 })
 
-mongoose.connect(config.MONGODB_URI);
+mongoose.connect(config.MONGODB_URI)
 
-const Blog = mongoose.model('Blog', blogSchema);
+const Blog = mongoose.model('Blog', blogSchema)
 
 module.exports = Blog;

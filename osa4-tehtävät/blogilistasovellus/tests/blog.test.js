@@ -1,5 +1,5 @@
-const Blog = require("../models/blog");
-const listHelper = require("../utils/list_helper");
+const Blog = require('../models/blog');
+const listHelper = require('../utils/list_helper');
 
 const blogs = [
   {
@@ -50,7 +50,7 @@ const blogs = [
     likes: 2,
     __v: 0,
   },
-];
+]
 
 const listWithOneBlog = [
   {
@@ -61,23 +61,23 @@ const listWithOneBlog = [
     likes: 5,
     __v: 0,
   },
-];
+]
 
-describe("total likes", () => {
-  test("when list has only one blog equals the likes of that", () => {
-    const result = listHelper.oneBlogLikes(listWithOneBlog);
-    expect(result).toBe(5);
-  });
+describe('total likes', () => {
+  test('when list has only one blog equals the likes of that', () => {
+    const result = listHelper.oneBlogLikes(listWithOneBlog)
+    expect(result).toBe(5)
+  })
 
-  test("when list has more than one blog equals the likes of that", () => {
-    const result = listHelper.totalLikes(blogs);
-    expect(result).toBe(36);
-  });
-});
+  test('when list has more than one blog equals the likes of that', () => {
+    const result = listHelper.totalLikes(blogs)
+    expect(result).toBe(36)
+  })
+})
 
-describe("blog with most likes", () => {
-  test("the blog with most likes", () => {
-    const result = listHelper.favoriteBlog(blogs);
-    expect(result).toEqual(blogs[2]);
-  });
-});
+describe('blog with most likes', () => {
+  test('the blog with most likes', () => {
+    const result = listHelper.favoriteBlog(blogs)
+    expect(result).toEqual(blogs[2])
+  })
+})
